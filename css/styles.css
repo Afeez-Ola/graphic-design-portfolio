@@ -24,7 +24,7 @@ button {
 h2 {
     font-size: 50px;
     font-weight: 700;
-    font-family: 'Pacifico', cursive;
+    s font-family: 'Pacifico', cursive;
     text-align: center;
     line-height: 1.5;
     width: 100%;
@@ -36,6 +36,11 @@ p {
     line-height: 1.5;
     font-family: 'Source Code Pro', monospace;
     width: 70%;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }
 
 footer {
